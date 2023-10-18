@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006832363601",
+    "project_id": "my-nosql-8937c",
+    "storage_bucket": "my-nosql-8937c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006832363601:android:7d8b6c2da7124648f3f070",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cafe_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6Ccpaqw7An9f4aCwprpKSaNXC6G1CVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
